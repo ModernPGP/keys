@@ -4,12 +4,9 @@ Key Verification
 With public/privacy key cryptography, **fingerprints** are absolutely needed in order to verify a PGP key.  Examples, experiments and tools to help with PGP fingerprint verifications. 
 
 
-## Fingperprints
+## Fingerprints
 
 The most common method of verifying a PGP key is comparing "fingerprints" by looking at a string of numbers & letters like `01AE EADB 9EED 1B5B 4280 E5B6 C4CA A23B 0F8C 68B2` on two screens or a piece of paper & a screen and making sure the characters match. 
-
-![Image of fingerprint business card](images/fingerprint-card.jpg)
-
 
 ### Visual Fingerprints
 
