@@ -1,7 +1,7 @@
 Keys
 ====
 
-This is a repository is meant to cover things relating to the user experience of PGP keys. Some of these principles and uxperience ideas can apply to [public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) in general. The basic aspects of key management can be best broken down into the following categories:
+This is a repository meant to cover things relating to the user experience of PGP keys. Some of these principles and experience ideas can apply to [public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) in general. The basic aspects of key management can be best broken down into the following categories:
 
 **[Discovery](discovery.md)** - the act of searching for or finding keys to import into your address book or (your keychain)
 
